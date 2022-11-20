@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ParcialD.dir/main.cpp.o CMakeFiles/ParcialD.dir/Extraccion/extraction.cpp.o CMakeFiles/ParcialD.dir/Regresion/linearregression.cpp.o -o ParcialD 
